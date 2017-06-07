@@ -1,0 +1,27 @@
+{
+  "name": "new-scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyattthomson/newScrape.git"
+  },
+  "author": "wyatt thomson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyattthomson/newScrape/issues"
+  },
+  "homepage": "https://github.com/wyattthomson/newScrape#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cheerio": "^1.0.0-rc.1",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.10.5",
+    "request": "^2.81.0"
+  }
+}
